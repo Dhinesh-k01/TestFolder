@@ -16,3 +16,10 @@ i) git checkout main/master/something that we named for our branch.
 
 how to check the difference between the two branches, use this command
 i) git diff 
+
+how to merge the branches, because we made some changes in sub-branch so we have to use this merge command to 
+implement those changes 
+i) git merge main/master branch
+
+after merging we have to push the changes to the github so that we can see the changes in github
+i) git push origin main/master 
