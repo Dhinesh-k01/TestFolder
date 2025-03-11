@@ -1,0 +1,15 @@
+created a new file in Master branch. It will be visible only in master branch not in main branch.
+
+after these changes done we have to commit these changes and save in github so again follow these 3 steps.
+i) git add . / git add NewFile.txt
+ii) git commit -m "created new file in master"
+iii) git push origin master => here we are in master branch so we to use master branch.
+
+how to check which branch we are in, use this command
+i) git branch
+
+how to check how many branches we have, use this command
+i) git branch -a
+
+how to switch between branches, use this command
+i) git checkout main/master/something that we named for our branch.
