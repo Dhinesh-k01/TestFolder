@@ -13,3 +13,6 @@ i) git branch -a
 
 how to switch between branches, use this command
 i) git checkout main/master/something that we named for our branch.
+
+how to check the difference between the two branches, use this command
+i) git diff 
